@@ -35,3 +35,26 @@
 3.  * Q:機器人可以應用在哪？
 
       A:有許多的應用 最近我們完成了機器人體操而且最近跟電腦視覺一起應
+      
+## 影片
+
+[單手倒立](https://www.youtube.com/watch?v=5fRVJbHhV6Q)
+	   
+[跳轉](https://www.youtube.com/watch?v=VnRADacrUuY)
+    
+[後翻](https://www.youtube.com/watch?v=si86ftxEGCs)
+  
+## 參考來源
+
+https://en.wikipedia.org/wiki/Humanoid_robot
+
+
+
+
+
+
+## 感謝
+
+我們感謝林柏江教授擔任我們的指導教授
+
+我們也感謝在這一路上幫助過我們的同學，老師們
