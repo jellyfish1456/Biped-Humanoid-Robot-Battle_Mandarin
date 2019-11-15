@@ -15,10 +15,6 @@
   * [參考來源](#參考來源)
   * [感謝](#感謝)
 
-
-
-
-
 ## 零件
 
 一個雙足機器人主要包含： 
@@ -34,6 +30,11 @@
 
 
 
+## 安裝
+
+操作系統：Microsoft Windows 10<br/>
+安裝 [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html)以執行代碼
+![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
 
 
 
