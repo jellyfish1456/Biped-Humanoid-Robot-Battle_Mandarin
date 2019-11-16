@@ -45,17 +45,23 @@
 * 第三步，觀察控制器是否成功連接到機器人（紅色指示燈)
  <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/15.jpg"/></div><br/>
 
+## 開始
 
+在Windows search裡搜尋並且打開InnoBASIC Workshop 2 commander <div align=center><img width="300" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/17.jpg"/></div><br/>
+ 
+Inside the commander is the code editor.
+![pic12](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/12.jpg)
+ 
+在上方編輯欄點擊以下的圖示 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
 
+他不只可以通過調整數值來改變馬達的轉動角度，還可以改變馬達的時間以及速度。<br/>
+CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
 
+在頁面底部，左側使我們能夠在此電腦上做保存以及加載文件;右側則是讓我們能將文件保存以及加載到機器人的cmu中。
+<div align=center><img width="700" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/4.jpg"/></div><br/>
 
-
-
-
-
-
-
-
+在編輯好所有程序後，使用USB Mini-B連接電腦和機器人，並且在InnoBASIC Workshop 2 commander 中點擊"build"以將程序輸入到機器人裡。
+<div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/11.jpg"/></div><br/>
 
 
 
