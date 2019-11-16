@@ -83,6 +83,9 @@ CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
   
   <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
 
+  我們按下無線搖桿上的START按鈕。如果以連接上機器人，機器人會呈現僵直狀態，馬達會固定住。
+  
+  如果未連接上機器人，搖桿上的紅色只是燈會一直呈現閃爍狀態。
   
 ## 討論
 
