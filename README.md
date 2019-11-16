@@ -2,6 +2,8 @@
 
 雙足機器人是一個人型的鈦合金機器人。普遍而言，雙足機器人擁有一個軀幹，一個頭部，兩隻手以及兩條腿。此外，機器人不只需要結合硬體與軟體知識，還需要整合電機、機械、資工等科系的專業知識，而這正是跨領域學習的最佳學習要素。在硬體方面，我們將會學習如何操作、修復各種感測器以及馬達。在軟體方面，我們將會使用Visual-basic這樣的程式語言。此機器人是從[Robosmart Technology](http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=)購買的，它提供了建構自己機器人的機會。現在，我們將開始設計一個格鬥機器人，我們可以根據需求自由的設計它
 
+<div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/3.jpg"/></div>
+
 ## 目錄
 
   * [零件](#零件)
