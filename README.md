@@ -38,9 +38,12 @@
 安裝 [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html)以執行代碼
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
 
+## 開始之前
 
-
-
+* 首先，我們要確認控制器和電池的電量是否完全充滿
+* 第二步，將電池連接機器人
+* 第三步，觀察控制器是否成功連接到機器人（紅色指示燈)
+ <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/15.jpg"/></div><br/>
 
 
 
