@@ -20,6 +20,7 @@
 ## 零件
 
 一個雙足機器人主要包含： 
+* 機器人
 * Innovati Servo Commander 16控制模塊
 * IQ4516HV伺服馬達
 * CC2541 2.4-GHz藍芽
