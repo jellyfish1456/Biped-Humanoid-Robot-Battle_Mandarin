@@ -13,6 +13,7 @@
   * [開始](#開始)
   * [問題討論](#問題討論)
   * [影片](#影片)
+  * [參考程式碼](#參考程式碼)
   * [參考來源](#參考來源)
   * [感謝](#感謝)
 
@@ -78,7 +79,9 @@ CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
 * 首先，我們要確認控制器和電池的電量是否完全充滿
 * 第二步，將電池連接機器人
 * 第三步，觀察控制器是否成功連接到機器人（紅色指示燈)
- <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/15.jpg"/></div><br/>
+
+<div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/18.jpg"/></div><br/>
+
   這裡我們使用ps2無線搖桿去控制機器人
   
   <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
@@ -91,16 +94,31 @@ CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
 
 1.  * Q:如果機器人沒辦法在不同地面走路保持穩定我們應該怎麼辦？
 
-      A:最近我們有學到如何設計一台在不同環境中都可以適應的機器人 現在我們可以手動的調整機器人
+      A:最近我們有學到如何設計一台在不同環境中都可以適應的機器人 現在我們可以手動的調整機器人。
       
 2.  * Q:機器人可以做任何我們想要的動作嗎？
 
-      A:當然可以 你可以設計任何你想要的動作並自行實行你的的想法
+      A:當然可以 你可以設計任何你想要的動作並自行實行你的的想法。
       
 3.  * Q:機器人可以應用在哪？
 
-      A:有許多的應用 最近我們完成了機器人體操而且最近跟電腦視覺一起應
+      A:有許多的應用 最近我們完成了機器人體操而且最近跟電腦視覺一起應用。
       
+4.   * Q:請問使用的程式語言是什麼?
+
+     * A: Visual basic-like 的程式語言。
+     
+5.   * Q: 要如何組裝機器人?
+
+     * A: 請參照網站以及按照步驟組裝。
+     
+如果您有任何問題, 請告知我們:
+
+haha871116@gmail.com
+
+jason3067812@gmail.com
+
+leo32448@gmail.com     
 ## 影片
 
 [單手倒立](https://www.youtube.com/watch?v=5fRVJbHhV6Q)
@@ -108,14 +126,15 @@ CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
 [跳轉](https://www.youtube.com/watch?v=VnRADacrUuY)
     
 [後翻](https://www.youtube.com/watch?v=si86ftxEGCs)
-  
+
+
+## 參考程式碼
+
+參考程式碼將會於競賽結束後上傳
+
 ## 參考來源
 
 https://en.wikipedia.org/wiki/Humanoid_robot
-
-
-
-
 
 
 ## 感謝
