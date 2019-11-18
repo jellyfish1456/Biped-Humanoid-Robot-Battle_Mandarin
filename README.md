@@ -8,10 +8,9 @@
 
   * [零件](#零件)
   * [安裝](#安裝)
-  * [開始之前](#開始之前)
-  * [開始](#開始)
+  * [調整](#調整)
   * [伺服馬達](#伺服馬達)
-  * [控制](#控制)
+  * [開始](#開始)
   * [問題討論](#問題討論)
   * [影片](#影片)
   * [參考來源](#參考來源)
@@ -38,7 +37,7 @@
 安裝 [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html)以執行代碼
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
 
-## 開始之前
+## 調整
 
 * 首先，我們要確認控制器和電池的電量是否完全充滿
 * 第二步，將電池連接機器人
@@ -78,7 +77,7 @@ CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
      <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/10.jpg"/></div><br/>
   
   
-## 控制
+## 開始
   這裡我們使用ps2無線搖桿去控制機器人
   
   <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
