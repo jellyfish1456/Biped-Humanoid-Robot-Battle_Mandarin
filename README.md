@@ -39,12 +39,8 @@
 
 ## 調整
 
-* 首先，我們要確認控制器和電池的電量是否完全充滿
-* 第二步，將電池連接機器人
-* 第三步，觀察控制器是否成功連接到機器人（紅色指示燈)
- <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/15.jpg"/></div><br/>
 
-## 開始
+
 
 在Windows search裡搜尋並且打開InnoBASIC Workshop 2 commander <div align=center><img width="300" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/17.jpg"/></div><br/>
  
@@ -78,6 +74,11 @@ CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
   
   
 ## 開始
+
+* 首先，我們要確認控制器和電池的電量是否完全充滿
+* 第二步，將電池連接機器人
+* 第三步，觀察控制器是否成功連接到機器人（紅色指示燈)
+ <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/15.jpg"/></div><br/>
   這裡我們使用ps2無線搖桿去控制機器人
   
   <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
