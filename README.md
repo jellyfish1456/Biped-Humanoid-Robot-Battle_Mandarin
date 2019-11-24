@@ -41,7 +41,7 @@
 
 
 這個操作系統包含了幾個部份：innoBASIC Workshop 是一個安裝在電腦上的軟體平台，提供使用者以innoBASIC程式語言編輯、編譯及下載程式；終端視窗為程式執行時的人機介面和除錯平台；完成的程式碼透過USB，下載到BASIC Commander。BASIC Commander提供三種功能：第一個是通用的I/O；第二個是cmdBUS (TM)，透過它可同時並聯32個利基科技的週邊模組。第三個是DEBUG介面，用來讓innoBASIC Workshop 終端視窗 對BASIC Commander 上傳或下傳資料
-
+![pic25](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/25.jpg)
 
 此操作系統適用於IBM或與其相容的個人電腦，Windows 98或以上的版本/2000/ME/XP/Vista等作業系統均可使用。電腦須有USB 1.1 /2.0 接頭，用來下載程式碼及除錯。
 
