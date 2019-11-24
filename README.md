@@ -39,10 +39,9 @@
 安裝 [innoBASIC Workshop 2](http://www.innovati.com.tw/website/down/html/?113.html)以執行代碼
 ![pic1](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/1.jpg)
 
+此操作系統適用於IBM或與其相容的個人電腦，Windows 98或以上的版本/2000/ME/XP/Vista等作業系統均可使用。電腦須有USB 1.1 /2.0 接頭，用來下載程式碼及除錯。
+
 ## 調整
-
-
-
 
 在Windows search裡搜尋並且打開InnoBASIC Workshop 2 commander <div align=center><img width="300" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/17.jpg"/></div><br/>
  
