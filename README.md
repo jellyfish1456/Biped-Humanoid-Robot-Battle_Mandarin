@@ -123,6 +123,7 @@ haha871116@gmail.com
 jason3067812@gmail.com
 
 leo32448@gmail.com     
+
 ## 影片
 
 體操
@@ -141,6 +142,8 @@ leo32448@gmail.com
 ## 參考來源
 
 https://en.wikipedia.org/wiki/Humanoid_robot
+
+http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
 
 
 ## 感謝
