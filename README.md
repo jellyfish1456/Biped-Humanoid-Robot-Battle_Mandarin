@@ -92,6 +92,7 @@ CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
   
   <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
 
+注意: 這些按鍵可以自己做更換!
 
 ## 討論
 
