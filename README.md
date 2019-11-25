@@ -82,7 +82,9 @@ CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
 
 * 首先，我們要確認控制器和電池的電量是否完全充滿
 * 第二步，將電池連接機器人
-* 第三步，觀察控制器是否成功連接到機器人（紅色指示燈)
+* 第三步，觀察控制器是否成功連接到機器人（紅色指示燈)，當我們按下無線搖桿上的START按鈕。如果以連接上機器人，機器人會呈現僵直狀態，馬達會固定住。
+  如果未連接上機器人，搖桿上的紅色只是燈會一直呈現閃爍狀態。
+  
 
 <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/18.jpg"/></div><br/>
 
@@ -90,10 +92,7 @@ CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
   
   <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
 
-  我們按下無線搖桿上的START按鈕。如果以連接上機器人，機器人會呈現僵直狀態，馬達會固定住。
-  
-  如果未連接上機器人，搖桿上的紅色只是燈會一直呈現閃爍狀態。
-  
+
 ## 討論
 
 1.  * Q:如果機器人沒辦法在不同地面走路保持穩定我們應該怎麼辦？
