@@ -54,6 +54,9 @@
  
 在上方編輯欄點擊以下的圖示 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
 
+And then, it will show up a window. We choose "Default" in the kit preset, and choose "Servo commander 16" in the Left used module
+![pic26](https://github.com/christw16/Biped-Humanoid-Robot-Battle_Mandarin/blob/master/img/26.jpg)
+
 他不只可以通過調整數值來改變馬達的轉動角度，還可以改變馬達的時間以及速度。<br/>
 CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
 
