@@ -1,4 +1,4 @@
-# Biped-Humanoid-Robot-Battle_Mandarin(中文版)
+# Biped-Humanoid-Robot-Battle_
 
 雙足機器人是由鈦合金所製作的人型機器人。普遍而言，雙足機器人擁有一個軀幹，一個頭部，兩隻手以及兩條腿。此外，機器人不只需要結合硬體與軟體知識，還需要整合電機、機械、資工等科系的專業知識，而這正是跨領域學習的最佳學習要素。在硬體方面，我們將會學習如何操作、修復各種感測器以及馬達。在軟體方面，我們將會使用Visual-basic like這樣的程式語言。此機器人是從[Robosmart Technology](http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=)購買的，它提供了建構自己機器人的機會。現在，我們將開始設計一個格鬥機器人，我們可以根據需求自由的設計它。
 
@@ -9,7 +9,6 @@
   * [零件](#零件)
   * [安裝](#安裝)
   * [調整](#調整)
-  * [伺服馬達](#伺服馬達)
   * [開始](#開始)
   * [問題討論](#問題討論)
   * [影片](#影片)
@@ -41,7 +40,6 @@
 
 
 這個操作系統包含了幾個部份：innoBASIC Workshop 是一個安裝在電腦上的軟體平台，提供使用者以innoBASIC程式語言編輯、編譯及下載程式；終端視窗為程式執行時的人機介面和除錯平台；完成的程式碼透過USB，下載到BASIC Commander。BASIC Commander提供三種功能：第一個是通用的I/O；第二個是cmdBUS (TM)，透過它可同時並聯32個利基科技的週邊模組。第三個是DEBUG介面，用來讓innoBASIC Workshop 終端視窗 對BASIC Commander 上傳或下傳資料。
- ![pic25](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/25.jpg)
 
 此操作系統適用於IBM或與其相容的個人電腦，Windows 98或以上的版本/2000/ME/XP/Vista等作業系統均可使用。電腦須有USB 1.1 /2.0 接頭，用來下載程式碼及除錯。
 
@@ -65,20 +63,6 @@ CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
 
 在編輯好所有程序後，使用USB Mini-B連接電腦和機器人，並且在InnoBASIC Workshop 2 commander 中點擊"build"以將程序輸入到機器人裡。
 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/11.jpg"/></div><br/>
-
-
-
-## 伺服馬達
-
-下面這張照片是伺服馬達（注意：伺服馬達角度範圍在800~2200）
-<div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg"/></div><br/>
-
-  * 保養：<br/>
-      如果伺服馬達運轉不正常 舉例來說：冒煙或卡住 請立即停止馬達運轉 你可以換一個新的馬達或是修理它
-  
-  * 位置：<br/>
-      機器人總共有15個馬達，下面這張圖是各個馬達在機器人中的編號<br/>
-     <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/10.jpg"/></div><br/>
   
   
 ## 開始
