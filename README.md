@@ -158,7 +158,7 @@
 
 
 
-## 討論
+# 討論
 
 1.  * Q:如果機器人沒辦法在不同地面走路保持穩定我們應該怎麼辦？
 
@@ -188,7 +188,7 @@ jason3067812@gmail.com
 
 leo32448@gmail.com     
 
-## 影片
+# 影片
 
 體操
 
@@ -199,18 +199,28 @@ leo32448@gmail.com
 [後翻](https://www.youtube.com/watch?v=si86ftxEGCs)
 
 
-## 參考程式碼
+# 參考程式碼
 
 參考程式碼將會於競賽結束後上傳
 
-## 參考來源
+# 參考來源
 
 https://en.wikipedia.org/wiki/Humanoid_robot
 
 http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
 
+# 成員
+隊伍成員:
+劉力元 - 元智大學 - 電機通訊學院英語專班
 
-## 感謝
+張程鈞 - 元智大學 - 電機通訊學院英語專班
+
+徐靖憲 - 元智大學 - 電機通訊學院英語專班
+指導教授:
+林柏江教授 - 元智大學 - 元智大學電機系乙組助理教授
+
+
+# 感謝
 
 我們特別感謝林柏江教授擔任我們的指導教授
 
