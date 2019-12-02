@@ -86,9 +86,8 @@
 5. 在編輯好所有程序後，使用USB Mini-B連接電腦和機器人，並且在InnoBASIC Workshop 2 commander 中點擊"build"以將程序輸入到機器人裡。
 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/11.jpg"/></div><br/>
 
+# 前置作業
 
-
-## 伺服馬達
 
 下面這張照片是伺服馬達（注意：伺服馬達角度範圍在800~2200）
 <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg"/></div><br/>
@@ -100,8 +99,37 @@
       機器人總共有15個馬達，下面這張圖是各個馬達在機器人中的編號<br/>
      <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/10.jpg"/></div><br/>
   
-  
-## 開始
+(1) 伺服馬達
+
+下面這張照片是伺服馬達（注意：伺服馬達角度範圍在800~2200）。
+<div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/7.jpg"/></div><br/>
+
+  * 保養:<br/>
+      如果伺服馬達運轉不正常 舉例來說：冒煙或卡住 請立即停止馬達運轉 你可以換一個新的馬達或是修理它。
+     
+  * 位置:<br/>
+     機器人總共有15個馬達，下面這張圖是各個馬達在機器人中的編號<br/>
+     <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/10.jpg"/></div><br/>
+     
+(2) 電池
+下圖為電池(注意:電池電壓範圍為10伏倒12.6伏) 。
+
+<div align=center><img width="400" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/34.jpg"/></div><br/>
+        
+ * 充電:<br/>
+     將電池連接充電器。
+       <div align=center><img width="450" height="350" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/35.jpg"/></div><br/>
+       
+   以下的步驟為如何使用平衡充電器
+   
+    1.按"Stop"並選擇"Lipo"。
+   
+    2.按"+"並選擇balance mode。
+   
+    3.按"Start"。當電池充飽時，充電器會響起，請按"Stop"。
+   <div align=center><img width="450" height="350" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/36.jpg"/></div><br/>  
+   
+# 檢查與開始
 
 * 首先，我們要確認控制器和電池的電量是否完全充滿。
 * 第二步，將電池連接機器人。
