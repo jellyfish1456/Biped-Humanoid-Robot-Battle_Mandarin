@@ -226,7 +226,7 @@ http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
 
 ROBO-ONE 35TH, Japan (國際性二足機器人比賽最高級別公開賽事) - 唯一一組在體操跳轉項目拿下滿分
 
-
+# 感謝
 我們特別感謝林柏江教授擔任我們的指導教授
 
 我們也感謝在這一路上幫助過我們的同學，老師們
