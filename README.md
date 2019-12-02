@@ -129,19 +129,34 @@
 
 # 檢查與開始
 
-* 首先，我們要確認控制器和電池的電量是否完全充滿。
-* 第二步，將電池連接機器人。
-* 第三步，觀察控制器是否成功連接到機器人（紅色指示燈)，當我們按下無線搖桿上的START按鈕。如果以連接上機器人，機器人會呈現僵直狀態，馬達會固定住。
-  如果未連接上機器人，搖桿上的紅色只是燈會一直呈現閃爍狀態。
+請先檢查機器人是否充滿電。
+
+<div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/31.jpg"/></div>
+
+拿起PS2握把並靠近機器人。
+
+<div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/32.jpg"/></div>
+
+將電池與機器人連接。
+
+  <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/18.jpg"/></div><br/>
+
+在PS2搖桿按下 "START" 按鈕來連接機器人。當機器人成功連接時，機器人會呈現僵直狀態並且伺服馬達會固定住。如果沒有成功連接，PS2搖桿上的紅色的指示燈會不斷地閃爍
+ 
+<div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/33.jpg"/></div>
+
   
-
-<div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/18.jpg"/></div><br/>
-
   這裡我們使用ps2無線搖桿去控制機器人
-  
-  <div align=center><img width="450" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg"/></div>
+
+![pic24](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/24.jpg)
+
+
+當機器人成功連接時，機器人會呈現僵直狀態並且伺服馬達會固定住。
+
 
 注意: 這些按鍵可以自己做更換!
+
+
 
 ## 討論
 
