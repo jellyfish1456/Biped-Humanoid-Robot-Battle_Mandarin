@@ -222,7 +222,7 @@ http://robosmart.com.tw/zh-tw/classes_con.php?id=NDU=
   * 指導教授:<br/>
      林柏江教授 - 元智大學 - 元智大學電機系乙組助理教授
 
-# 榮耀
+# 榮譽
 
 ROBO-ONE 35TH, Japan (國際性二足機器人比賽最高級別公開賽事) - 唯一一組在體操跳轉項目拿下滿分
 
