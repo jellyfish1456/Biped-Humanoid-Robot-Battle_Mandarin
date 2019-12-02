@@ -50,7 +50,7 @@
 
 # 程式語法
 
-## 調整
+# 機器人動作編輯
 
 在Windows search裡搜尋並且打開InnoBASIC Workshop 2 commander <div align=center><img width="300" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/17.jpg"/></div><br/>
  
