@@ -57,18 +57,33 @@
 在命令元裡的是程式碼編輯器
 ![pic12](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/12.jpg)
  
-在上方編輯欄點擊以下的圖示 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
+2. 在上方編輯欄點擊以下的圖示 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/5.jpg"/></div><br/>
 
-點擊圖示之後，會跳出一個視窗。在模組初始設定選擇"預設值"，在下方使用模組中選擇"Servo commander 16"。
-![pic26](https://github.com/christw16/Biped-Humanoid-Robot-Battle_Mandarin/blob/master/img/26.jpg)
 
-他不只可以通過調整數值來改變馬達的轉動角度，還可以改變馬達的時間以及速度。<br/>
-CH0, CH1, ....to CH15代表各個獨立的馬達。<br/>
+3. 它將顯示一個窗口。我們在工具包預設中選擇"Default"，然後在左側使用的模塊中選擇"Servo commander 16"。按"OK"。
+![pic27](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/27.jpg)
 
-在頁面底部，左側使我們能夠在此電腦上做保存以及加載文件;右側則是讓我們能將文件保存以及加載到機器人的板子上。
-<div align=center><img width="700" height="500" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/4.jpg"/></div><br/>
+然後，它會彈出一個警告標誌，警告您檢查伺服馬達的位置。按"OK"。
 
-在編輯好所有程序後，使用USB Mini-B連接電腦和機器人，並且在InnoBASIC Workshop 2 commander 中點擊"build"以將程序輸入到機器人裡。
+![pic28](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/28.jpg)
+
+4. 以下是使用Innovation motion editor編輯伺服馬達值的步驟。
+
+ (I) 機器人的動作編成號碼從1到200。
+
+ (II) CH0, CH1, ....到 CH15代表了每一個伺服馬達的編號(當我們勾選各自的ID時，將會使伺服馬達激活，開始運作)。
+
+ (III) 它可以藉由輸入調整數值或是按一下拉桿來調整伺服馬達的角度值。伺服馬達的角度是介於800 到 2200。
+
+ (IV) “時間”代表了當馬達的角度變換時，會在這個我們指定的時間內變換完成，時間單位為毫秒(ms)。
+ 
+ (V) 將此動作編號的馬達角度數據以(.ftxt)儲存至電腦或從電腦讀取(.ftxt)檔案。
+
+ (VI) 將此動作編號的馬達角度數據以(.ftxt)儲存至Innovati Servo Commander 16控制模塊或從Innovati Servo Commander 16控制模塊讀取(.ftxt)檔案。
+
+ ![pic25](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/29.jpg)
+
+5. 在編輯好所有程序後，使用USB Mini-B連接電腦和機器人，並且在InnoBASIC Workshop 2 commander 中點擊"build"以將程序輸入到機器人裡。
 <div align=center><img width="100" height="100" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/11.jpg"/></div><br/>
 
 
