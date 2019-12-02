@@ -146,9 +146,9 @@
 <div align=center><img width="600" height="450" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/33.jpg"/></div>
 
   
-  這裡我們使用ps2無線搖桿去控制機器人
+這裡我們使用ps2無線搖桿去控制機器人
 
-![pic24](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/24.jpg)
+![pic24](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/14.jpg)
 
 
 當機器人成功連接時，機器人會呈現僵直狀態並且伺服馬達會固定住。
