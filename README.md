@@ -49,6 +49,57 @@
 此操作系統適用於IBM或與其相容的個人電腦，Windows 98或以上的版本/2000/ME/XP/Vista等作業系統均可使用。電腦須有USB 1.1 /2.0 接頭，用來下載程式碼及除錯。
 
 # 程式語法
+以下為範例程式碼
+![pic38](https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/38.jpg)
+
+## SUB and FUNCTION
+一個程式至少須有一個以“main”為命名的Sub程序。通常以“Sub Main()”敘述來表示一個程式的開始，一直到Main()的最後結束。除了Main()程序之外，你可以加上其它的Sub程序，函數(Function)等，讓程式更具結構化，更有效率。		
+
+
+
+    Sub Display()
+
+       Debug "Sub Procedure Display() has executed."
+
+    End Sub
+
+## Do...Loop Statements
+當需要不斷重複執行一個程式,其中最有效率的方式是利用Do....Loop 指令。最基本的Do....Loop指令將會是一個無限的迴圈,將會永無止盡的一直跑下去,當此時狀況是True的時候,迴圈裡的程式將會一直不間斷地跑下去,當如果狀況是False的時候程式將會跳離迴圈並結束。
+ 
+
+	Sub Main()
+
+		Dim x As Short
+		x = 1
+		Do While x<5
+			Debug "*"
+			x+=1                 'display 4 asterisks
+		Loop
+
+		Debug CR
+	End Sub
+	
+## If...Then...Else 指令
+當需要狀況符合一個條件時後執行某個程式碼,剩下的狀況執行另一個程式碼時,那麼If...Else指令會是你的好幫手
+最基本的使用方法是，一但你狀況是True的時候(If ...... = True),在這個條件下If裡程式將會執行,但狀況是False的時候就會執行Else裡的程式碼,當你需要多種條件時,可以使用ElseIf來執行程式碼
+
+
+	Sub Main()
+
+	Dim a,b,Max As Integer
+	Debugin "Enter the First Number:", a  
+	Debugin "Enter the Second Number:", b 
+
+	If a < b Then
+		Max = b
+	Else
+		Max = a
+
+	End If
+	Debug "Max is:", Max    
+
+	End Sub
+
 
 # 機器人動作編輯
 
