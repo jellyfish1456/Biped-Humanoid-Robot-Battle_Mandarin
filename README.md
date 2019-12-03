@@ -155,6 +155,7 @@
      <div align=center><img width="300" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/10.jpg"/></div><br/>
      
 (2) 電池
+
 下圖為電池(注意:電池電壓範圍為10伏倒12.6伏) 。
 
 <div align=center><img width="400" height="300" src="https://github.com/christw16/Biped-Humanoid-Robot-Battle/blob/master/img/34.jpg"/></div><br/>
