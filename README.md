@@ -55,8 +55,11 @@
 ## SUB and FUNCTION
 一個程式至少須有一個以“main”為命名的Sub程序。通常以“Sub Main()”敘述來表示一個程式的開始，一直到Main()的最後結束。除了Main()程序之外，你可以加上其它的Sub程序，函數(Function)等，讓程式更具結構化，更有效率。		
 
+    Sub Main()
 
+   	 Display()
 
+    End Sub
     Sub Display()
 
        Debug "Sub Procedure Display() has executed."
