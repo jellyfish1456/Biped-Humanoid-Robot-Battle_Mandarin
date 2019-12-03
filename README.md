@@ -57,7 +57,7 @@
 
     Sub Main()
 
-   	 Display()
+       Display()
 
     End Sub
     Sub Display()
